@@ -52,7 +52,7 @@ server.put("/projects/:id", CheckIdExists, (req, res) => {
   return res.json(projects);
 });
 
-// Deletar Projeto
+// Deletar Projseto
 server.delete("/projects/:id", (req, res) => {
   const { id } = req.params;
   projects.splice(id, 1);
