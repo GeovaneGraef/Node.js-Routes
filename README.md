@@ -1,1 +1,1 @@
-Script as rotas do CRUD com o Node.js utilizando o Express, Nodemom e dois MiddleWare
+Script de rotas para CRUD com Node.js utilizando o Express, Nodemom e dois MiddleWare
